@@ -1,0 +1,55 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item android:id="@+id/menu_legalnotices"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/legal_notice"/>
+    
+    <item android:id="@+id/menu_view_type"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/view_type"/>
+    
+    <item android:id="@+id/menu_3d_animation"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/threed_animation"/>
+    
+    <item android:id="@+id/menu_camera_position"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/camera_position"/>
+    
+    <item android:id="@+id/Madrid_Barcelona"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/show_route"/>
+    
+    <item android:id="@+id/enter_address"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/specific_address"/>
+    
+    
+    <item android:id="@+id/kml_madrid"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/kml_madrid"/>
+    
+    
+    
+    <item android:id="@+id/menu_borrar_polylineas"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Limpiar pantalla"/>
+    
+    
+    <item android:id="@+id/menu_mostrar_radio"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Mostrar radio"/>
+    
+    
+    
+
+</menu>
